@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "read-text-file": "^1.1.0"
+  },
+  "scripts": {
+    "start": "node Solution.js"
+  },
+    "license": "UNLICENSED"
+
+}
